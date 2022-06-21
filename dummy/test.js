@@ -1,5 +1,5 @@
 let email = document.getElementById('email');
-let pass = document.getElementById('password');
+let passwd = document.getElementById('password');
 
 function submitForms() {
     if (email.value == '' && pass.value == '') {
